@@ -57,6 +57,13 @@ To check and update packages in package.json:
 npx npm-check-updates -u
 `
 
+# Backend Start Up
+
+`
+npm run start
+` 
+Which starts the node index
+
 ### Compiles and hot-reloads for development
 
 `
