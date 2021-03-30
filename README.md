@@ -1,4 +1,4 @@
-# Server-side Development with NodeJS, Express and MongoDB
+# Server-side Development with NodeJS, Express
 
 This project was done in my Coursera Specialization Course
 
@@ -18,6 +18,7 @@ Software Developer and aspiring Game Developer
 
 - This was a great exeprince as I got more experience using Express
 - It gave me more insight on the backend side
+- Is a simple backend server for future projects
 
 # Application Features
 
