@@ -10,8 +10,6 @@ Name: Samira Mc Queen
 Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
-![Certification](./src/assets/images/Angular.png)
-
 # Project 
 
 ![Video](./src/assets/images/angular.gif)
@@ -23,17 +21,13 @@ Software Developer and aspiring Game Developer
 
 # Application Features
 
-- 
-
-# Frontend Built With
-
-- Ionic/Angular
-- Capacitor
+- Can be tested using Postman
+- Can GET, PUT, POST, DELETE information
 
 # Backend Built With
 
 - Express server
-- MongoDB
+- NodeJS
 
 # Project setup
 
