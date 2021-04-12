@@ -16,7 +16,7 @@ Software Developer and aspiring Game Developer
 
 ## Experience with Project
 
-- This was a great exeprince as I got more experience using Express
+- This was a great exeprince as I got more knowledge about using Express
 - It gave me more insight on the backend side
 - Is a simple backend server for future projects
 
