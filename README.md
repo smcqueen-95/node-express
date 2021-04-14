@@ -1,4 +1,4 @@
-# Server-side Development with NodeJS, Express and MongoDB
+# Server-side Development with NodeJS, Express
 
 This project was done in my Coursera Specialization Course
 
@@ -10,29 +10,25 @@ Name: Samira Mc Queen
 Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
-
 # Project 
 
 ![Video](./assets/node-express.gif)
 
 ## Experience with Project
 
-- This was a great exeprince as I got more experience using Express
+- This was a great exeprince as I got more knowledge about using Express
 - It gave me more insight on the backend side
+- Is a simple backend server for future projects
 
 # Application Features
 
-- 
-
-# Frontend Built With
-
-- Ionic/Angular
-- Capacitor
+- Can be tested using Postman
+- Can GET, PUT, POST, DELETE information
 
 # Backend Built With
 
 - Express server
-- MongoDB
+- NodeJS
 
 # Project setup
 
